@@ -7,3 +7,8 @@ Yale's La Silla-QUEST dataset consists of a subset of 25,000 RR Lyrae stars that
 2. Lightcurve Template type ab
 3. Lightcurve Template type c
 4. Bailey Diagram
+
+### Relevant Papers
+1. La Silla-QUEST RR Lyrae Star Survey: Region I, https://iopscience.iop.org/article/10.1088/0004-637X/781/1/22
+2. Light curve templates and Galactic Distribution of RR Lyrae Stars from Sloan Digital Sky Survey Stripe 82, https://iopscience.iop.org/article/10.1088/0004-637X/708/1/717/pdf
+3. Computation of the Fourier parameters of RR Lyrae stars by template fitting, https://www.aanda.org/articles/aa/pdf/2007/06/aa6050-06.pdf
