@@ -1,4 +1,4 @@
-# A356_Final_Project
+# Various Template Fitting Methods for RR Lyrae Stars in the La Silla-QUEST Variability Survey
 
 Yale's La Silla-QUEST dataset consists of a subset of 25,000 RR Lyrae stars that serve as precise distance indicators and reliable tracers of the galactic halo. These RRL extend to estimated distances of up to 140kpc; however, many of their light curves are sparsely sampled or affected by noise, particularly for the most distant halo stars. As RR Lyrae stars have characteristic, periodic lightcurves, fitting the sparsely sampled lightcurves using a predetermined template library that accurately spans the range of RRab shapes will enable a more precise estimation of key parameters such as period, amplitude, and Φ31 values, which in turn leads to more reliable metallicity and distance measurements. In this project I use agglomerative hierarchical clustering to construct RRab light-curve templates from a subset of well-sampled stars and applied these templates to sparsely sampled stars within the dataset. I also explore using a convolutional autoencoder in order to create a fully continuous template library to be applied to the RRL dataset. 
 
